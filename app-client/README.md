@@ -1,9 +1,12 @@
-# This project is alike Social Media Platfrom.
-# Designed from scratch
+# Social Media like Platform built from scratch
 
-### click Below to see demo
-[Scream](https://github.com/facebook/create-react-app)
+## [Click here to see demo](https://arun-pratap.github.io/fullStack-react-redux-firebase-social-media-app)
 
+## Feature
+* Signup
+* Login
+* Validation
+* Token Authorization
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -27,3 +30,5 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `npm run build`
 
 
+### click Below to see demo
+[ScreamIt](https://arun-pratap.github.io/fullStack-react-redux-firebase-social-media-app)
