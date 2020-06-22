@@ -1,10 +1,10 @@
 # Social Media like Platform built from scratch
 
-## [Click here to see demo](https://arun-pratap.github.io/fullStack-react-redux-firebase-social-media-app)
+## [Click here to see demo](https://spaceit-af177.web.app)
 
 ## Feature
-* Signup
-* Login
+* [Signup](https://spaceit-af177.web.app/signup)
+* [Login](https://spaceit-af177.web.app/login)
 * Validation
 * Token Authorization
 
@@ -31,4 +31,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 
 ### click Below to see demo
-[ScreamIt](https://arun-pratap.github.io/fullStack-react-redux-firebase-social-media-app)
+[ScreamIt](https://spaceit-af177.web.app)
