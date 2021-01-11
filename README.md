@@ -1,6 +1,8 @@
 # Social Media like Platform built from scratch
 
 ## [Click here to see demo](https://spaceit-af177.web.app/login)
+Email: demo@123.com
+Password: demo@123
 
 ## Feature
 * [Signup](https://spaceit-af177.web.app/signup)
