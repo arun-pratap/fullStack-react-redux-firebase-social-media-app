@@ -1,6 +1,6 @@
 # Social Media like Platform built from scratch
 
-## [Click here to see demo](https://spaceit-af177.web.app)
+## [Click here to see demo](https://spaceit-af177.web.app/login)
 
 ## Feature
 * [Signup](https://spaceit-af177.web.app/signup)
