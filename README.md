@@ -5,7 +5,7 @@
 ***Email:*** *demo@123.com* <br />
 ***Password:*** *demo@123*
 
-## Feature
+## Features
 * [Signup](https://spaceit-af177.web.app/signup)
 * [Login](https://spaceit-af177.web.app/login)
 * Validation
