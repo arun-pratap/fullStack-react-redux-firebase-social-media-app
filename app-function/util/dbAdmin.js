@@ -7,6 +7,7 @@ admin.initializeApp({
     databaseURL: ".................",
     storageBucket: ".............."
 })
+
 const db = admin.firestore()
 // ======================================================================= //
 module.exports = { admin, db }
